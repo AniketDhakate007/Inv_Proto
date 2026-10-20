@@ -1,0 +1,6 @@
+{
+  "name": "Crema Cafe Stock & Inventory",
+  "description": "Comprehensive stock intelligence for cafe owners, tracking perishables, recipe deductions, real-time stock levels, physical audits, and supplier purchase orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
